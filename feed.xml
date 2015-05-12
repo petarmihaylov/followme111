@@ -5,10 +5,23 @@
   <id>http://www.followme111.com</id>
   <link href="http://www.followme111.com"/>
   <link href="http://www.followme111.com/feed.xml" rel="self"/>
-  <updated>2013-10-25T20:00:00-04:00</updated>
+  <updated>2015-05-11T20:00:00-04:00</updated>
   <author>
     <name>Sean Morrison</name>
   </author>
+  <entry>
+    <title>This is Another Article</title>
+    <link rel="alternate" href="http://www.followme111.com/2015/05/12/this-is-another-article/"/>
+    <id>http://www.followme111.com/2015/05/12/this-is-another-article/</id>
+    <published>2015-05-11T20:00:00-04:00</published>
+    <updated>2015-05-12T07:52:10-04:00</updated>
+    <author>
+      <name>Sean Morrison</name>
+    </author>
+    <summary type="html">This how simple it is to write new articles and get them on the website.
+
+I will most likely get the drafts going or maybe I will ask sean to just send me the articles and I can format them and get them published. In either case, I think this is going</summary>
+  </entry>
   <entry>
     <title>Welcome to Ghost</title>
     <link rel="alternate" href="http://www.followme111.com/2013/10/26/welcome-to-ghost/"/>
